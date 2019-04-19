@@ -1,3 +1,5 @@
+package com.mkyong.editor;
+
 import javax.inject.Named;
 import javax.enterprise.context.ApplicationScoped;
 
